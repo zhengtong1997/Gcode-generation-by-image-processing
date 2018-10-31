@@ -1,0 +1,18 @@
+﻿  Moc'ing mainwindow.h...
+  Uic'ing mainwindow.ui...
+  Gcode.cpp
+  moc_mainwindow.cpp
+  ProcessImage.cpp
+ProcessImage.cpp(51): warning C4477: “fprintf”: 格式字符串“%.3f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+ProcessImage.cpp(51): warning C4477: “fprintf”: 格式字符串“%.3f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+ProcessImage.cpp(58): warning C4477: “fprintf”: 格式字符串“%.3f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+ProcessImage.cpp(58): warning C4477: “fprintf”: 格式字符串“%.3f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+ProcessImage.cpp(65): warning C4477: “fprintf”: 格式字符串“%.3f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+ProcessImage.cpp(65): warning C4477: “fprintf”: 格式字符串“%.3f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+ProcessImage.cpp(75): warning C4477: “fprintf”: 格式字符串“%.5f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+ProcessImage.cpp(75): warning C4477: “fprintf”: 格式字符串“%.3f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+  check.cpp
+  main.cpp
+  mainwindow.cpp
+  正在生成代码...
+  test123.vcxproj -> C:\Users\Administrator\Documents\test123\release\test123.exe

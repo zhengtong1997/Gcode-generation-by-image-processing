@@ -1,0 +1,65 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Win32\Debug\) contains files shared from another project (test123.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Moc'ing mainwindow.h...
+  Uic'ing mainwindow.ui...
+  Gcode.cpp
+  moc_mainwindow.cpp
+  ProcessImage.cpp
+  check.cpp
+  main.cpp
+  mainwindow.cpp
+  Plan.cpp
+Plan.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+Plan.cpp(35): warning C4018: “<=”: 有符号/无符号不匹配
+Plan.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+Plan.cpp(79): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+Plan.cpp(80): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+Plan.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+Plan.cpp(119): warning C4189: “y0”: 局部变量已初始化但不引用
+Plan.cpp(118): warning C4189: “x0”: 局部变量已初始化但不引用
+Plan.cpp(48): warning C4189: “w1”: 局部变量已初始化但不引用
+Plan.cpp(50): warning C4189: “w3”: 局部变量已初始化但不引用
+Plan.cpp(49): warning C4189: “w2”: 局部变量已初始化但不引用
+Plan.cpp(192): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“cv::Point_<int>”
+Plan.cpp(192): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“cv::Point_<int>”
+Plan.cpp(192): warning C4474: fprintf: 格式字符串中传递的参数太多
+  Plan.cpp(192): note: 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+Plan.cpp(202): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“cv::Point_<int>”
+Plan.cpp(202): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“cv::Point_<int>”
+Plan.cpp(202): warning C4474: fprintf: 格式字符串中传递的参数太多
+  Plan.cpp(202): note: 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+Plan.cpp(215): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“cv::Point_<int>”
+Plan.cpp(215): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“cv::Point_<int>”
+Plan.cpp(215): warning C4474: fprintf: 格式字符串中传递的参数太多
+  Plan.cpp(215): note: 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+Plan.cpp(225): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“cv::Point_<int>”
+Plan.cpp(225): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“cv::Point_<int>”
+Plan.cpp(225): warning C4474: fprintf: 格式字符串中传递的参数太多
+  Plan.cpp(225): note: 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+Plan.cpp(237): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“cv::Point_<int>”
+Plan.cpp(237): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“cv::Point_<int>”
+Plan.cpp(237): warning C4474: fprintf: 格式字符串中传递的参数太多
+  Plan.cpp(237): note: 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+Plan.cpp(248): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“cv::Point_<int>”
+Plan.cpp(248): warning C4477: “fprintf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“cv::Point_<int>”
+Plan.cpp(249): warning C4474: fprintf: 格式字符串中传递的参数太多
+  Plan.cpp(249): note: 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+Plan.cpp(177): warning C4100: “yhqiepian”: 未引用的形参
+Plan.cpp(265): warning C4018: “<”: 有符号/无符号不匹配
+Plan.cpp(268): warning C4018: “<”: 有符号/无符号不匹配
+Plan.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+Plan.cpp(255): warning C4100: “n”: 未引用的形参
+Plan.cpp(263): warning C4189: “f”: 局部变量已初始化但不引用
+Plan.cpp(326): warning C4100: “qdm”: 未引用的形参
+Plan.cpp(326): warning C4100: “qlm”: 未引用的形参
+Plan.cpp(326): warning C4100: “dm”: 未引用的形参
+Plan.cpp(326): warning C4100: “lunkuo”: 未引用的形参
+Plan.cpp(326): warning C4100: “yhqiepian”: 未引用的形参
+Plan.cpp(329): warning C4101: “re”: 未引用的局部变量
+Plan.cpp(476): warning C4100: “qdm”: 未引用的形参
+Plan.cpp(476): warning C4100: “qlm”: 未引用的形参
+Plan.cpp(476): warning C4100: “dm”: 未引用的形参
+  正在生成代码...
+c:\users\administrator\desktop\杂货铺\软件组\软件工程代码及动态链接库\plan.cpp(318): warning C4172: 返回局部变量或临时变量的地址: a
+c:\users\administrator\desktop\杂货铺\软件组\软件工程代码及动态链接库\plan.cpp(473): warning C4172: 返回局部变量或临时变量的地址: b
+  test.vcxproj -> C:\Users\Administrator\Desktop\杂货铺\软件组\软件工程代码及动态链接库\debug\test123.exe
+  test.vcxproj -> debug\test123.pdb (Full PDB)
